@@ -31,6 +31,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emun.nhil?mibextid=wwXIfr&rdid=JvFky0vtNq477pcm&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19QmAGEZHU%2F%3Fmibextid%3DwwXIfr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ema-afrin-b56a95255/)
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=ema12-afr&color=blue&style=for-the-badge)
