@@ -3,14 +3,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E91E63&center=true&vCenter=true&width=550&lines=Front+End+Developer;CSE+Student+%40+University+of+Asia+Pacific;Building+with+JavaScript+%26+Node.js;Crafting+clean%2C+beautiful+interfaces." alt="Typing SVG" />
 </div>
 <br>
-👋 About Me
-🎓 Currently studying in the Department of CSE at the University of Asia Pacific
-🎨 A front end developer passionate about crafting clean, user-friendly interfaces
-🌱 Constantly growing my skills across the web development stack
-🤝 Open to collaborating on interesting front end and full stack projects
-📫 Reach me through the links below
+ About Me
+ Currently studying in the Department of CSE at the University of Asia Pacific
+ A front end developer passionate about crafting clean, user-friendly interfaces
+ Constantly growing my skills across the web development stack
+ Open to collaborating on interesting front end and full stack projects
+ Reach me through the links below
 <br>
-🛠️ Tech Stack
+ Tech Stack
 <div align="center">
 <img src="https://img.icons8.com/color/48/c-programming.png" width="50" title="C"/>
 <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="50" title="C++"/>
@@ -21,7 +21,7 @@
 <img src="https://img.icons8.com/color/48/nodejs.png" width="50" title="Node.js"/>
 </div>
 <br>
-📊 GitHub Stats
+ GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ema12-afr&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ema12-afr&layout=compact&theme=radical&hide_border=true" width="38%"/>
@@ -29,7 +29,7 @@
 <img src="https://streak-stats.demolab.com?user=ema12-afr&theme=radical&hide_border=true" width="60%"/>
 </div>
 <br>
-🌐 Connect With Me
+ Connect With Me
 <div align="center">
 <a href="https://www.instagram.com/afrin.nahila" target="_blank">
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="45" title="Instagram"/>
