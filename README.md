@@ -3,12 +3,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E91E63&center=true&vCenter=true&width=550&lines=Front+End+Developer;CSE+Student+%40+University+of+Asia+Pacific;Building+with+JavaScript+%26+Node.js;Crafting+clean%2C+beautiful+interfaces." alt="Typing SVG" />
 </div>
 <br>
- About Me
- Currently studying in the Department of CSE at the University of Asia Pacific
- A front end developer passionate about crafting clean, user-friendly interfaces
- Constantly growing my skills across the web development stack
- Open to collaborating on interesting front end and full stack projects
- Reach me through the links below
+ About Me <br>
+ Currently studying in the Department of CSE at the University of Asia Pacific <br>
+ A front end developer passionate about crafting clean, user-friendly interfaces <br>
+ Constantly growing my skills across the web development stack <br>
+ Open to collaborating on interesting front end and full stack projects <br>
+ Reach me through the links below 
 <br>
  Tech Stack
 <div align="center">
